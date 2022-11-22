@@ -1,0 +1,23 @@
+{
+  "name": "freshly-backend",
+  "version": "1.0.0",
+  "description": "freshly backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrasadK05/freshly-backend.git"
+  },
+  "keywords": [],
+  "author": "prasad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrasadK05/freshly-backend/issues"
+  },
+  "homepage": "https://github.com/PrasadK05/freshly-backend#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
